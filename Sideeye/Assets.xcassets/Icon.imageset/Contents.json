@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Suspicious Side-Eye Doodle.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Suspicious Side-Eye Doodle 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Suspicious Side-Eye Doodle 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
